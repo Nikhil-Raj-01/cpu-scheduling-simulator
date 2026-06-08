@@ -11,9 +11,6 @@ https://cpu-scheduling-simulator.streamlit.app/
 - Priority Scheduling
 - Gantt Chart Visualization
 - Performance Metrics
-- Export Results CPU Scheduling Simulator
- https://cpu-scheduling-simulator.streamlit.app/
-
 
 I built a CPU Scheduling Simulator using Python and Streamlit to understand and visualize how different CPU scheduling algorithms work.
 
