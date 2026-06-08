@@ -1,4 +1,17 @@
- CPU Scheduling Simulator
+## Live Demo
+
+https://cpu-scheduling-simulator.streamlit.app/
+
+## Features
+
+- FCFS
+- SJF
+- SRTF
+- Round Robin
+- Priority Scheduling
+- Gantt Chart Visualization
+- Performance Metrics
+- Export Results CPU Scheduling Simulator
  https://cpu-scheduling-simulator.streamlit.app/
 
 
